@@ -61,7 +61,7 @@ const PLATES: any = {
 };
 
 const PRICING: any = {
-  NG: { starter: "₦15,000", pro: "₦50,000", enterprise: "₦150,000" },
+  NG: { starter: "₦20,000", pro: "₦50,000", enterprise: "₦150,000" },
   US: { starter: "$49", pro: "$149", enterprise: "$499" },
   GB: { starter: "£49", pro: "£149", enterprise: "£499" },
   DEFAULT: { starter: "$49", pro: "$149", enterprise: "$499" },
